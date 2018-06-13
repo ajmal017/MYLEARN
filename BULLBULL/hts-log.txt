@@ -1,0 +1,444 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Jun 2018 10:22:38 at https://bullbull.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bullbull.in/ -O1 "C:\Users\Prachi Mishra\Desktop\RAKESH_ARCHIEVE\BULLBULL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:22:39	Warning: 	Note: due to https://bullbull.in remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /dev/* (see in the options to disable this)
+10:24:49	Error: 	"Not Found" (404) at link https://bullbull.in/GET (from https://bullbull.in/wp-content/themes/mh-newsdesk-lite/js/dygraph.js?ver=4.9.6)
+10:26:21	Warning: 	Moved Permanently for https://bullbull.in/?p=261
+10:26:21	Warning: 	File has moved from https://bullbull.in/?p=261 to https://bullbull.in/research-tools/
+10:26:21	Warning: 	Moved Permanently for https://bullbull.in/?p=2318
+10:26:21	Warning: 	File has moved from https://bullbull.in/?p=2318 to https://bullbull.in/financial-risk-calculator/
+10:26:22	Warning: 	Moved Permanently for https://bullbull.in/?p=1707
+10:26:22	Warning: 	File has moved from https://bullbull.in/?p=1707 to https://bullbull.in/target-price-calculator/
+10:26:22	Warning: 	Moved Permanently for https://bullbull.in/?p=239
+10:26:22	Warning: 	File has moved from https://bullbull.in/?p=239 to https://bullbull.in/intrinsic-value-calculator/
+10:26:22	Warning: 	Moved Permanently for https://bullbull.in/?p=273
+10:26:22	Warning: 	File has moved from https://bullbull.in/?p=273 to https://bullbull.in/small-cap-value-calculator/
+10:26:22	Warning: 	Moved Permanently for https://bullbull.in/?p=393
+10:26:22	Warning: 	File has moved from https://bullbull.in/?p=393 to https://bullbull.in/option-premium-value/
+10:26:22	Warning: 	Moved Permanently for https://bullbull.in/?p=426
+10:26:22	Warning: 	File has moved from https://bullbull.in/?p=426 to https://bullbull.in/trend-predictor/
+10:26:28	Warning: 	Moved Permanently for https://bullbull.in/?p=5
+10:26:28	Warning: 	File has moved from https://bullbull.in/?p=5 to https://bullbull.in/about-us/
+10:26:28	Warning: 	Moved Permanently for https://bullbull.in/?p=1315
+10:26:28	Warning: 	File has moved from https://bullbull.in/?p=1315 to https://bullbull.in/shop/
+10:26:46	Error: 	"Method Not Allowed" (405) at link https://bullbull.in/xmlrpc.php (from https://bullbull.in/market-iq/how-to-figure-out-sectors-that-will-trend-up-or-down/)
+10:26:46	Warning: 	Moved Permanently for https://bullbull.in/?p=2682
+10:26:46	Warning: 	File has moved from https://bullbull.in/?p=2682 to https://bullbull.in/market-iq/how-to-figure-out-sectors-that-will-trend-up-or-down/
+10:26:55	Warning: 	Moved Permanently for https://bullbull.in/?p=2665
+10:26:55	Warning: 	File has moved from https://bullbull.in/?p=2665 to https://bullbull.in/market-iq/daily-trading-setup-with-oi-options-and-charts-for-multiple-stocks/
+10:27:03	Warning: 	Moved Permanently for https://bullbull.in/?p=2530
+10:27:03	Warning: 	File has moved from https://bullbull.in/?p=2530 to https://bullbull.in/charts/how-to-be-100-sure-of-a-chart-signal/
+10:27:03	Warning: 	Moved Permanently for https://bullbull.in/?p=2641
+10:27:03	Warning: 	File has moved from https://bullbull.in/?p=2641 to https://bullbull.in/fundamentals/case-study-why-it-is-important-to-read-an-annual-report/
+10:27:23	Warning: 	Moved Permanently for https://bullbull.in/?p=2456
+10:27:23	Warning: 	File has moved from https://bullbull.in/?p=2456 to https://bullbull.in/fundamentals/financial-risk-calculator-add-on-notes/
+10:27:30	Warning: 	Moved Permanently for https://bullbull.in/?p=1901
+10:27:30	Warning: 	File has moved from https://bullbull.in/?p=1901 to https://bullbull.in/stocks/gujarat-poly-electronics-a-compelling-turnaround-story/
+10:27:39	Warning: 	Moved Permanently for https://bullbull.in/?p=1733
+10:27:39	Warning: 	File has moved from https://bullbull.in/?p=1733 to https://bullbull.in/stocks/cerebra-technologies-waste-to-precious-metals-company/
+10:27:43	Warning: 	Moved Permanently for https://bullbull.in/?p=287
+10:27:43	Warning: 	File has moved from https://bullbull.in/?p=287 to https://bullbull.in/market-iq/hot-bsense-insider-deals-updated-daily/
+10:27:53	Warning: 	Moved Permanently for https://bullbull.in/?p=2623
+10:27:53	Warning: 	File has moved from https://bullbull.in/?p=2623 to https://bullbull.in/sme-ipos/priti-international-ipo-review/
+10:27:54	Warning: 	Moved Permanently for https://bullbull.in/?p=2578
+10:27:54	Warning: 	File has moved from https://bullbull.in/?p=2578 to https://bullbull.in/options/the-facts-about-options-greeks/
+10:28:13	Warning: 	Moved Permanently for https://bullbull.in/?p=2495
+10:28:13	Warning: 	File has moved from https://bullbull.in/?p=2495 to https://bullbull.in/charts/how-to-discover-stocks-for-profitable-intraday-trades/
+10:28:19	Warning: 	Moved Permanently for https://bullbull.in/?p=2423
+10:28:19	Warning: 	File has moved from https://bullbull.in/?p=2423 to https://bullbull.in/market-iq/a-practical-guide-to-swing-trading/
+10:28:25	Warning: 	Moved Permanently for https://bullbull.in/?p=2386
+10:28:25	Warning: 	File has moved from https://bullbull.in/?p=2386 to https://bullbull.in/charts/how-to-use-the-macd-indicator-for-spotting-momentum-and-trend/
+10:28:29	Warning: 	Moved Permanently for https://bullbull.in/?p=2316
+10:28:29	Warning: 	File has moved from https://bullbull.in/?p=2316 to https://bullbull.in/charts/how-to-use-the-stochastic-indicator/
+10:28:42	Warning: 	Moved Permanently for https://bullbull.in/?p=1969
+10:28:42	Warning: 	File has moved from https://bullbull.in/?p=1969 to https://bullbull.in/charts/this-trade-setup-results-in-profits/
+10:29:01	Warning: 	Moved Permanently for https://bullbull.in/?p=2303
+10:29:01	Warning: 	File has moved from https://bullbull.in/?p=2303 to https://bullbull.in/fundamentals/how-to-see-through-financial-window-dressing/
+10:29:06	Warning: 	Moved Permanently for https://bullbull.in/?p=2027
+10:29:06	Warning: 	File has moved from https://bullbull.in/?p=2027 to https://bullbull.in/fundamentals/what-is-value-investing-and-how-to-be-a-value-investor/
+10:29:09	Warning: 	Moved Permanently for https://bullbull.in/?p=1987
+10:29:09	Warning: 	File has moved from https://bullbull.in/?p=1987 to https://bullbull.in/fundamentals/a-practical-guide-to-predicting-commodity-cycles/
+10:29:11	Warning: 	Moved Permanently for https://bullbull.in/?p=1716
+10:29:11	Warning: 	File has moved from https://bullbull.in/?p=1716 to https://bullbull.in/fundamentals/should-i-buy-this-stock-is-it-priced-right-what-is-the-target-price/
+10:29:47	Warning: 	Moved Permanently for https://bullbull.in/?p=1651
+10:29:47	Warning: 	File has moved from https://bullbull.in/?p=1651 to https://bullbull.in/stocks/why-buy-ifci/
+10:29:48	Warning: 	Moved Permanently for https://bullbull.in/?p=1433
+10:29:48	Warning: 	File has moved from https://bullbull.in/?p=1433 to https://bullbull.in/stocks/iris-business-services-solo-listed-play-in-the-regulation-niche/
+10:29:55	Warning: 	Moved Permanently for https://bullbull.in/?p=1213
+10:29:55	Warning: 	File has moved from https://bullbull.in/?p=1213 to https://bullbull.in/stocks/ivp-ltd-multibagger-priced-cheap/
+10:29:58	Warning: 	Moved Permanently for https://bullbull.in/?p=1104
+10:29:58	Warning: 	File has moved from https://bullbull.in/?p=1104 to https://bullbull.in/stocks/malu-papers-waste-wealth-turnaround-story/
+10:30:14	Warning: 	Moved Permanently for https://bullbull.in/?p=2571
+10:30:14	Warning: 	File has moved from https://bullbull.in/?p=2571 to https://bullbull.in/options/7-secrets-of-option-writers/
+10:30:18	Warning: 	Moved Permanently for https://bullbull.in/?p=2547
+10:30:18	Warning: 	File has moved from https://bullbull.in/?p=2547 to https://bullbull.in/options/how-to-analyze-call-and-put-writing-and-predict-trends/
+10:30:46	Warning: 	Moved Permanently for https://bullbull.in/?p=2476
+10:30:46	Warning: 	File has moved from https://bullbull.in/?p=2476 to https://bullbull.in/options/how-to-discover-volatile-and-not-volatile-stocks-for-applying-options-strategies/
+10:30:47	Warning: 	Moved Permanently for https://bullbull.in/?p=2400
+10:30:47	Warning: 	File has moved from https://bullbull.in/?p=2400 to https://bullbull.in/options/how-to-use-the-synthetic-long-options-strategy/
+10:30:52	Warning: 	Moved Permanently for https://bullbull.in/?p=2364
+10:30:52	Warning: 	File has moved from https://bullbull.in/?p=2364 to https://bullbull.in/options/synthetic-short-options-strategy-for-bear-markets/
+10:30:54	Warning: 	Moved Permanently for https://bullbull.in/?p=450
+10:30:54	Warning: 	File has moved from https://bullbull.in/?p=450 to https://bullbull.in/market-iq/use-bullbull-stock-market-trend-predictor/
+10:31:01	Warning: 	Moved Permanently for https://bullbull.in/?p=2601
+10:31:01	Warning: 	File has moved from https://bullbull.in/?p=2601 to https://bullbull.in/sme-ipos/accuracy-shipping-ipo-review/
+10:31:02	Warning: 	Moved Permanently for https://bullbull.in/?p=2519
+10:31:02	Warning: 	File has moved from https://bullbull.in/?p=2519 to https://bullbull.in/sme-ipos/sonam-clock-ipo-review/
+10:31:02	Warning: 	Moved Permanently for https://bullbull.in/?p=2508
+10:31:02	Warning: 	File has moved from https://bullbull.in/?p=2508 to https://bullbull.in/sme-ipos/waa-solar-ipo-review/
+10:31:03	Warning: 	Moved Permanently for https://bullbull.in/?p=2486
+10:31:03	Warning: 	File has moved from https://bullbull.in/?p=2486 to https://bullbull.in/sme-ipos/shreeoswal-seeds-chemicals-ipo-review/
+10:31:04	Warning: 	Moved Permanently for https://bullbull.in/?p=2466
+10:31:04	Warning: 	File has moved from https://bullbull.in/?p=2466 to https://bullbull.in/sme-ipos/palm-jewels-ipo-review/
+10:31:14	Warning: 	Moved Permanently for https://bullbull.in/?p=2108
+10:31:14	Warning: 	File has moved from https://bullbull.in/?p=2108 to https://bullbull.in/charts/a-live-trade-setup-that-can-generate-super-profits/
+10:31:15	Warning: 	Moved Permanently for https://bullbull.in/?p=2272
+10:31:15	Warning: 	File has moved from https://bullbull.in/?p=2272 to https://bullbull.in/market-iq/how-to-analyze-open-interest-data-and-generate-profitable-swing-trades/
+10:31:17	Warning: 	Moved Permanently for https://bullbull.in/?p=2245
+10:31:17	Warning: 	File has moved from https://bullbull.in/?p=2245 to https://bullbull.in/options/long-strangle-options-strategy-for-volatile-stocks/
+10:31:18	Warning: 	Moved Permanently for https://bullbull.in/?p=755
+10:31:18	Warning: 	File has moved from https://bullbull.in/?p=755 to https://bullbull.in/fundamentals/quickly-efficiently-analyze-annual-report/
+10:31:25	Warning: 	Moved Permanently for https://bullbull.in/?p=1157
+10:31:25	Warning: 	File has moved from https://bullbull.in/?p=1157 to https://bullbull.in/fundamentals/how-to-audit-management-quality-of-a-listed-bse-nse-stock/
+10:31:27	Warning: 	Moved Permanently for https://bullbull.in/?p=2441
+10:31:27	Warning: 	File has moved from https://bullbull.in/?p=2441 to https://bullbull.in/sme-ipos/sorich-foils-ipo-review/
+10:31:28	Warning: 	Moved Permanently for https://bullbull.in/?p=1859
+10:31:28	Warning: 	File has moved from https://bullbull.in/?p=1859 to https://bullbull.in/charts/6-powerful-candle-formations/
+10:31:30	Warning: 	Moved Permanently for https://bullbull.in/blog/interpreting-candlesticks-part-1-candlestick-formations/
+10:31:30	Warning: 	File has moved from https://bullbull.in/blog/interpreting-candlesticks-part-1-candlestick-formations/ to https://bullbull.in/charts/interpreting-candlesticks-part-1-candlestick-formations/
+10:31:30	Warning: 	Moved Permanently for https://bullbull.in/blog/how-to-choose-a-candlestick-time-period-on-a-chart/
+10:31:30	Warning: 	File has moved from https://bullbull.in/blog/how-to-choose-a-candlestick-time-period-on-a-chart/ to https://bullbull.in/charts/how-to-choose-a-candlestick-time-period-on-a-chart/
+10:31:34	Warning: 	Moved Permanently for https://bullbull.in/?p=1934
+10:31:34	Warning: 	File has moved from https://bullbull.in/?p=1934 to https://bullbull.in/market-iq/a-guide-to-ashwani-gujral/
+10:31:34	Warning: 	Moved Permanently for https://bullbull.in/?p=1752
+10:31:34	Warning: 	File has moved from https://bullbull.in/?p=1752 to https://bullbull.in/market-iq/interpret-open-interest-data/
+10:31:44	Warning: 	Moved Permanently for https://bullbull.in/?p=267
+10:31:44	Warning: 	File has moved from https://bullbull.in/?p=267 to https://bullbull.in/market-iq/how-to-keep-tabs-on-insider-trading-to-spot-multibaggers/
+10:31:46	Warning: 	Moved Permanently for https://bullbull.in/?p=344
+10:31:46	Warning: 	File has moved from https://bullbull.in/?p=344 to https://bullbull.in/market-iq/real-estate-company-violate-insider-trading-rules/
+10:31:47	Warning: 	Moved Permanently for https://bullbull.in/?p=2236
+10:31:47	Warning: 	File has moved from https://bullbull.in/?p=2236 to https://bullbull.in/charts/how-to-discover-support-and-resistance-levels/
+10:32:03	Warning: 	Moved Permanently for https://bullbull.in/?p=2153
+10:32:03	Warning: 	File has moved from https://bullbull.in/?p=2153 to https://bullbull.in/charts/basics-of-technical-analysis/
+10:32:07	Warning: 	Moved Permanently for https://bullbull.in/?p=2127
+10:32:07	Warning: 	File has moved from https://bullbull.in/?p=2127 to https://bullbull.in/charts/commodity-channel-index-cci-and-how-to-use-it/
+10:32:08	Warning: 	Moved Permanently for https://bullbull.in/?p=2045
+10:32:08	Warning: 	File has moved from https://bullbull.in/?p=2045 to https://bullbull.in/charts/how-to-use-the-ichimoku-cloud/
+10:32:09	Warning: 	Moved Permanently for https://bullbull.in/blog/this-trade-setup-results-in-profits/
+10:32:09	Warning: 	File has moved from https://bullbull.in/blog/this-trade-setup-results-in-profits/ to https://bullbull.in/charts/this-trade-setup-results-in-profits/
+10:32:09	Warning: 	Moved Permanently for https://bullbull.in/?p=1940
+10:32:09	Warning: 	File has moved from https://bullbull.in/?p=1940 to https://bullbull.in/charts/how-to-draw-a-trendline-a-step-by-step-guide/
+10:32:14	Warning: 	Moved Permanently for https://bullbull.in/?p=2413
+10:32:14	Warning: 	File has moved from https://bullbull.in/?p=2413 to https://bullbull.in/sme-ipos/debock-sales-and-marketing-ipo-review/
+10:32:15	Warning: 	Moved Permanently for https://bullbull.in/?p=2375
+10:32:15	Warning: 	File has moved from https://bullbull.in/?p=2375 to https://bullbull.in/sme-ipos/affordable-robotic-automation-limited-ipo-review/
+10:32:15	Warning: 	Moved Permanently for https://bullbull.in/?p=2337
+10:32:15	Warning: 	File has moved from https://bullbull.in/?p=2337 to https://bullbull.in/sme-ipos/latteys-industries-ipo-review/
+10:32:16	Warning: 	Moved Permanently for https://bullbull.in/?p=1331
+10:32:16	Warning: 	File has moved from https://bullbull.in/?p=1331 to https://bullbull.in/charts/golden-cross-indicator-use/
+10:32:17	Warning: 	Moved Permanently for https://bullbull.in/blog/hot-bsense-insider-deals-updated-daily/
+10:32:17	Warning: 	File has moved from https://bullbull.in/blog/hot-bsense-insider-deals-updated-daily/ to https://bullbull.in/market-iq/hot-bsense-insider-deals-updated-daily/
+10:32:18	Warning: 	Moved Permanently for https://bullbull.in/?p=537
+10:32:18	Warning: 	File has moved from https://bullbull.in/?p=537 to https://bullbull.in/charts/set-up-near-accurate-technical-charts-for-indian-stock-markets-free/
+10:32:24	Warning: 	Moved Permanently for https://bullbull.in/?p=1693
+10:32:24	Warning: 	File has moved from https://bullbull.in/?p=1693 to https://bullbull.in/fundamentals/how-to-rate-your-stock-figure-out-trending-stocks-sectors/
+10:32:26	Warning: 	Moved Permanently for https://bullbull.in/?p=1602
+10:32:26	Warning: 	File has moved from https://bullbull.in/?p=1602 to https://bullbull.in/fundamentals/companies-that-manufacture-different-types-of-plastics/
+10:32:31	Warning: 	Moved Permanently for https://bullbull.in/?p=1267
+10:32:31	Warning: 	File has moved from https://bullbull.in/?p=1267 to https://bullbull.in/fundamentals/what-is-the-right-time-to-sell-your-stock/
+10:32:31	Warning: 	Moved Permanently for https://bullbull.in/blog/the-2-2-2-stock-market-trading-strategy-can-help-you-maximize-gains-and-minimize-losses-influential-brokers-follow-it/
+10:32:31	Warning: 	File has moved from https://bullbull.in/blog/the-2-2-2-stock-market-trading-strategy-can-help-you-maximize-gains-and-minimize-losses-influential-brokers-follow-it/ to https://bullbull.in/market-iq/the-2-2-2-stock-market-trading-strategy-can-help-you-maximize-gains-and-minimize-losses-influential-brokers-follow-it/
+10:32:31	Warning: 	Moved Permanently for https://bullbull.in/blog/how-to-audit-management-quality-of-a-listed-bse-nse-stock/
+10:32:31	Warning: 	File has moved from https://bullbull.in/blog/how-to-audit-management-quality-of-a-listed-bse-nse-stock/ to https://bullbull.in/fundamentals/how-to-audit-management-quality-of-a-listed-bse-nse-stock/
+10:32:31	Warning: 	Moved Permanently for https://bullbull.in/blog/quickly-efficiently-analyze-annual-report/
+10:32:31	Warning: 	File has moved from https://bullbull.in/blog/quickly-efficiently-analyze-annual-report/ to https://bullbull.in/fundamentals/quickly-efficiently-analyze-annual-report/
+10:32:31	Warning: 	Moved Permanently for https://bullbull.in/?p=1099
+10:32:31	Warning: 	File has moved from https://bullbull.in/?p=1099 to https://bullbull.in/fundamentals/list-of-hotel-stocks-that-benefit-from-gst-changes/
+10:32:33	Warning: 	Moved Permanently for https://bullbull.in/?p=930
+10:32:33	Warning: 	File has moved from https://bullbull.in/?p=930 to https://bullbull.in/fundamentals/how-to-analyze-the-indian-economy/
+10:32:37	Warning: 	Moved Permanently for https://bullbull.in/?p=2296
+10:32:37	Warning: 	File has moved from https://bullbull.in/?p=2296 to https://bullbull.in/sme-ipos/suumaya-lifestyle-ipo-review/
+10:32:38	Warning: 	Moved Permanently for https://bullbull.in/?p=2007
+10:32:38	Warning: 	File has moved from https://bullbull.in/?p=2007 to https://bullbull.in/market-iq/the-importance-of-stop-loss-and-how-to-set-it/
+10:32:40	Warning: 	Moved Permanently for https://bullbull.in/?p=868
+10:32:40	Warning: 	File has moved from https://bullbull.in/?p=868 to https://bullbull.in/fundamentals/indian-multibaggers-2020-indian-stocks-of-the-new-economy/
+10:32:45	Warning: 	Moved Permanently for https://bullbull.in/?p=429
+10:32:45	Warning: 	File has moved from https://bullbull.in/?p=429 to https://bullbull.in/fundamentals/the-best-stock-picking-tool-in-the-world-and-its-free/
+10:32:48	Warning: 	Moved Permanently for https://bullbull.in/?p=215
+10:32:48	Warning: 	File has moved from https://bullbull.in/?p=215 to https://bullbull.in/fundamentals/how-warren-buffet-picks-stocks/
+10:33:04	Warning: 	Moved Permanently for https://bullbull.in/?p=1072
+10:33:04	Warning: 	File has moved from https://bullbull.in/?p=1072 to https://bullbull.in/stocks/denora-india-a-class-apart/
+10:33:08	Warning: 	Moved Permanently for https://bullbull.in/?p=1021
+10:33:08	Warning: 	File has moved from https://bullbull.in/?p=1021 to https://bullbull.in/stocks/stock-with-long-term-potential-barak-valley-cements/
+10:33:11	Warning: 	Moved Permanently for https://bullbull.in/?p=911
+10:33:11	Warning: 	File has moved from https://bullbull.in/?p=911 to https://bullbull.in/stocks/swastika-investmart-massive-multibagger-potential/
+10:33:12	Warning: 	Moved Permanently for https://bullbull.in/?p=855
+10:33:12	Warning: 	File has moved from https://bullbull.in/?p=855 to https://bullbull.in/stocks/nse-bse-stocks-must-track/
+10:33:16	Warning: 	Moved Permanently for https://bullbull.in/?p=723
+10:33:16	Warning: 	File has moved from https://bullbull.in/?p=723 to https://bullbull.in/stocks/this-waste-to-wealth-paper-stock-can-pack-you-a-fortune/
+10:33:19	Warning: 	Moved Permanently for https://bullbull.in/?p=704
+10:33:19	Warning: 	File has moved from https://bullbull.in/?p=704 to https://bullbull.in/stocks/these-hardware-iot-stocks-can-make-you-hard-cash/
+10:33:21	Warning: 	Moved Permanently for https://bullbull.in/?p=1382
+10:33:21	Warning: 	File has moved from https://bullbull.in/?p=1382 to https://bullbull.in/charts/macd-bullish-crossover-how-to-profit-from-it/
+10:33:21	Warning: 	Moved Permanently for https://bullbull.in/?p=1431
+10:33:21	Warning: 	File has moved from https://bullbull.in/?p=1431 to https://bullbull.in/charts/macd-bullish-crossover-rsi-50-can-help-pick-super-stocks/
+10:33:23	Warning: 	Moved Permanently for https://bullbull.in/blog/macd-bullish-crossover-how-to-profit-from-it/
+10:33:23	Warning: 	File has moved from https://bullbull.in/blog/macd-bullish-crossover-how-to-profit-from-it/ to https://bullbull.in/charts/macd-bullish-crossover-how-to-profit-from-it/
+10:33:23	Warning: 	Moved Permanently for https://bullbull.in/?p=1126
+10:33:23	Warning: 	File has moved from https://bullbull.in/?p=1126 to https://bullbull.in/market-iq/get-nse-corporate-announcements-served-desktop-free/
+10:33:26	Warning: 	Moved Permanently for https://bullbull.in/?p=354
+10:33:26	Warning: 	File has moved from https://bullbull.in/?p=354 to https://bullbull.in/stocks/stock-pick-20-microns-a-stock-with-potential/
+10:33:29	Warning: 	Moved Permanently for https://bullbull.in/?p=2101
+10:33:29	Warning: 	File has moved from https://bullbull.in/?p=2101 to https://bullbull.in/market-iq/hot-insider-deals-updated-every-day/
+10:33:29	Warning: 	Moved Permanently for https://bullbull.in/?p=2173
+10:33:29	Warning: 	File has moved from https://bullbull.in/?p=2173 to https://bullbull.in/options/the-basics-of-options-trading/
+10:33:33	Warning: 	Moved Permanently for https://bullbull.in/?p=243
+10:33:33	Warning: 	File has moved from https://bullbull.in/?p=243 to https://bullbull.in/market-iq/stock-axis-app-can-go-horribly-wrong/
+10:33:33	Warning: 	Moved Permanently for https://bullbull.in/?p=197
+10:33:33	Warning: 	File has moved from https://bullbull.in/?p=197 to https://bullbull.in/market-iq/how-to-tell-if-a-stock-is-being-cornered-by-operators/
+10:33:38	Warning: 	Moved Permanently for https://bullbull.in/?p=168
+10:33:38	Warning: 	File has moved from https://bullbull.in/?p=168 to https://bullbull.in/market-iq/the-stock-axis-mobile-app-a-stock-pickers-delight/
+10:33:40	Warning: 	Moved Permanently for https://bullbull.in/blog/stock-axis-app-can-go-horribly-wrong/
+10:33:40	Warning: 	File has moved from https://bullbull.in/blog/stock-axis-app-can-go-horribly-wrong/ to https://bullbull.in/market-iq/stock-axis-app-can-go-horribly-wrong/
+10:33:40	Warning: 	Moved Permanently for https://bullbull.in/?p=144
+10:33:40	Warning: 	File has moved from https://bullbull.in/?p=144 to https://bullbull.in/market-iq/economic-policies-impact-stock-market-investments/
+10:33:43	Warning: 	Moved Permanently for https://bullbull.in/?p=2264
+10:33:43	Warning: 	File has moved from https://bullbull.in/?p=2264 to https://bullbull.in/options/short-strangle-options-strategy-for-steady-stocks/
+10:33:44	Warning: 	Moved Permanently for https://bullbull.in/?p=2194
+10:33:44	Warning: 	File has moved from https://bullbull.in/?p=2194 to https://bullbull.in/options/protective-collar-strategy/
+10:33:45	Warning: 	Moved Permanently for https://bullbull.in/?p=2186
+10:33:45	Warning: 	File has moved from https://bullbull.in/?p=2186 to https://bullbull.in/options/bull-put-spread-strategy/
+10:33:47	Warning: 	Moved Permanently for https://bullbull.in/?p=2177
+10:33:47	Warning: 	File has moved from https://bullbull.in/?p=2177 to https://bullbull.in/options/options-trading-bull-call-spread/
+10:33:47	Warning: 	Moved Permanently for https://bullbull.in/?p=2404
+10:33:47	Warning: 	File has moved from https://bullbull.in/?p=2404 to https://bullbull.in/sme-ipos/arihant-institute-ipo-review/
+10:33:48	Warning: 	Moved Permanently for https://bullbull.in/?p=2357
+10:33:48	Warning: 	File has moved from https://bullbull.in/?p=2357 to https://bullbull.in/sme-ipos/nakoda-group-of-industries-ipo-review/
+10:33:48	Warning: 	Moved Permanently for https://bullbull.in/?p=480
+10:33:48	Warning: 	File has moved from https://bullbull.in/?p=480 to https://bullbull.in/market-iq/profit-rollover-data/
+10:33:49	Warning: 	Moved Permanently for https://bullbull.in/?p=2351
+10:33:49	Warning: 	File has moved from https://bullbull.in/?p=2351 to https://bullbull.in/sme-ipos/shree-vasu-logistics-review/
+10:33:49	Warning: 	Moved Permanently for https://bullbull.in/?p=2215
+10:33:49	Warning: 	File has moved from https://bullbull.in/?p=2215 to https://bullbull.in/sme-ipos/innovators-facade-systems-ipo-review/
+10:33:50	Warning: 	Moved Permanently for https://bullbull.in/?p=2204
+10:33:50	Warning: 	File has moved from https://bullbull.in/?p=2204 to https://bullbull.in/sme-ipos/sirca-paints-ipo-review/
+10:33:53	Warning: 	Moved Permanently for https://bullbull.in/?p=784
+10:33:53	Warning: 	File has moved from https://bullbull.in/?p=784 to https://bullbull.in/market-iq/the-2-2-2-stock-market-trading-strategy-can-help-you-maximize-gains-and-minimize-losses-influential-brokers-follow-it/
+10:33:55	Warning: 	Moved Permanently for https://bullbull.in/?p=808
+10:33:55	Warning: 	File has moved from https://bullbull.in/?p=808 to https://bullbull.in/market-iq/is-the-indian-stock-market-in-a-bear-phase/
+10:33:56	Warning: 	Moved Permanently for https://bullbull.in/?p=1838
+10:33:56	Warning: 	File has moved from https://bullbull.in/?p=1838 to https://bullbull.in/charts/how-to-choose-a-candlestick-time-period-on-a-chart/
+10:33:57	Warning: 	Moved Permanently for https://bullbull.in/?p=1759
+10:33:57	Warning: 	File has moved from https://bullbull.in/?p=1759 to https://bullbull.in/charts/interpreting-candlesticks-part-1-candlestick-formations/
+10:33:58	Error: 	"Method Not Allowed" (405) at link https://bullbull.in/dev/xmlrpc.php (from https://bullbull.in/dev/charts/how-to-draw-a-trendline-a-step-by-step-guide/)
+10:34:03	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1940
+10:34:03	Warning: 	File has moved from https://bullbull.in/dev/?p=1940 to https://bullbull.in/dev/charts/how-to-draw-a-trendline-a-step-by-step-guide/
+10:34:58	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1859
+10:34:58	Warning: 	File has moved from https://bullbull.in/dev/?p=1859 to https://bullbull.in/dev/charts/6-powerful-candle-formations/
+10:35:04	Warning: 	Moved Permanently for https://bullbull.in/?p=511
+10:35:04	Warning: 	File has moved from https://bullbull.in/?p=511 to https://bullbull.in/market-iq/how-stock-market-operators-trick-investors-and-traders/
+10:35:06	Warning: 	Moved Permanently for https://bullbull.in/?p=568
+10:35:06	Warning: 	File has moved from https://bullbull.in/?p=568 to https://bullbull.in/stocks/stocks-with-a-future-electric-vehicle-battery-makers/
+10:35:06	Warning: 	Moved Permanently for https://bullbull.in/?p=1459
+10:35:06	Warning: 	File has moved from https://bullbull.in/?p=1459 to https://bullbull.in/market-iq/smses-tricking-buying-stocks/
+10:35:08	Warning: 	Moved Permanently for https://bullbull.in/?p=973
+10:35:08	Warning: 	File has moved from https://bullbull.in/?p=973 to https://bullbull.in/market-iq/how-to-hedge-your-portfolio-with-put-options/
+10:35:09	Warning: 	Moved Permanently for https://bullbull.in/?p=906
+10:35:09	Warning: 	File has moved from https://bullbull.in/?p=906 to https://bullbull.in/market-iq/operators-trick-investors-2/
+10:35:11	Warning: 	Moved Permanently for https://bullbull.in/?p=417
+10:35:11	Warning: 	File has moved from https://bullbull.in/?p=417 to https://bullbull.in/stocks/can-perfect-infraengineers-do-a-shakti-pumps/
+10:35:13	Warning: 	Moved Permanently for https://bullbull.in/?p=677
+10:35:13	Warning: 	File has moved from https://bullbull.in/?p=677 to https://bullbull.in/stocks/this-wonder-material-can-turn-these-companies-into-multibaggers/
+10:35:16	Warning: 	Moved Permanently for https://bullbull.in/?p=630
+10:35:16	Warning: 	File has moved from https://bullbull.in/?p=630 to https://bullbull.in/stocks/unhidden-gems-stones/
+10:35:19	Warning: 	Moved Permanently for https://bullbull.in/?p=619
+10:35:19	Warning: 	File has moved from https://bullbull.in/?p=619 to https://bullbull.in/stocks/companies-that-will-benefit-from-the-digital-india-program/
+10:35:22	Warning: 	Moved Permanently for https://bullbull.in/?p=584
+10:35:22	Warning: 	File has moved from https://bullbull.in/?p=584 to https://bullbull.in/stocks/sagarmala-bull-run-for-ports-pipes-roads-and-rail-stocks/
+10:35:24	Warning: 	Moved Permanently for https://bullbull.in/?p=1048
+10:35:24	Warning: 	File has moved from https://bullbull.in/?p=1048 to https://bullbull.in/market-iq/multiply-your-investment-with-this-trading-strategy/
+10:35:25	Warning: 	Moved Permanently for https://bullbull.in/blog/top-secret-research-companies-discover-buzzing-stocks-predict-trends/
+10:35:25	Warning: 	File has moved from https://bullbull.in/blog/top-secret-research-companies-discover-buzzing-stocks-predict-trends/ to https://bullbull.in/market-iq/top-secret-research-companies-discover-buzzing-stocks-predict-trends/
+10:35:25	Warning: 	Moved Permanently for https://bullbull.in/?p=828
+10:35:25	Warning: 	File has moved from https://bullbull.in/?p=828 to https://bullbull.in/uncategorized/sector-will-quench-multibagger-thirst/
+10:35:26	Warning: 	Moved Permanently for https://bullbull.in/?p=374
+10:35:26	Warning: 	File has moved from https://bullbull.in/?p=374 to https://bullbull.in/market-iq/list-of-stock-market-legends-and-how-to-track-their-investments/
+10:35:28	Warning: 	Moved Permanently for https://bullbull.in/?p=395
+10:35:28	Warning: 	File has moved from https://bullbull.in/?p=395 to https://bullbull.in/market-iq/top-secret-research-companies-discover-buzzing-stocks-predict-trends/
+10:35:28	Warning: 	Moved Permanently for https://bullbull.in/?p=180
+10:35:28	Warning: 	File has moved from https://bullbull.in/?p=180 to https://bullbull.in/uncategorized/exposed-rekha-and-rakesh-jhunjhunwalas-portfolio-as-on-31-march-2017/
+10:35:29	Warning: 	Moved Permanently for https://bullbull.in/?p=75
+10:35:29	Warning: 	File has moved from https://bullbull.in/?p=75 to https://bullbull.in/uncategorized/porinju-veliyath-portfolio-as-on-31-march-2017/
+10:35:52	Error: 	"Not Found" (404) at link https://bullbull.in/dev/charts/feed/ (from https://bullbull.in/dev/charts/)
+10:36:11	Error: 	"Not Found" (404) at link https://bullbull.in/dev/fundamentals/page/2/ (from https://bullbull.in/dev/fundamentals/)
+10:36:11	Error: 	"Not Found" (404) at link https://bullbull.in/dev/fundamentals/feed/ (from https://bullbull.in/dev/fundamentals/)
+10:36:41	Error: 	"Not Found" (404) at link https://bullbull.in/dev/stocks/page/2/ (from https://bullbull.in/dev/stocks/)
+10:36:41	Error: 	"Not Found" (404) at link https://bullbull.in/dev/stocks/feed/ (from https://bullbull.in/dev/stocks/)
+10:37:04	Error: 	"Not Found" (404) at link https://bullbull.in/dev/market-iq/page/2/ (from https://bullbull.in/dev/market-iq/)
+10:37:04	Error: 	"Not Found" (404) at link https://bullbull.in/dev/market-iq/feed/ (from https://bullbull.in/dev/market-iq/)
+10:37:24	Error: 	"Not Found" (404) at link https://bullbull.in/dev/market-iq/page/3/ (from https://bullbull.in/dev/market-iq/)
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1236
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=1236 to https://bullbull.in/dev/screener-api/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=261
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=261 to https://bullbull.in/dev/research-tools/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1707
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=1707 to https://bullbull.in/dev/target-price-calculator/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=239
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=239 to https://bullbull.in/dev/intrinsic-value-calculator/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=273
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=273 to https://bullbull.in/dev/small-cap-value-calculator/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=393
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=393 to https://bullbull.in/dev/option-premium-value/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=426
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=426 to https://bullbull.in/dev/trend-predictor/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=5
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=5 to https://bullbull.in/dev/about-us/
+10:37:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1315
+10:37:25	Warning: 	File has moved from https://bullbull.in/dev/?p=1315 to https://bullbull.in/dev/shop/
+10:37:29	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1934
+10:37:29	Warning: 	File has moved from https://bullbull.in/dev/?p=1934 to https://bullbull.in/dev/market-iq/a-guide-to-ashwani-gujral/
+10:37:30	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1969
+10:37:30	Warning: 	File has moved from https://bullbull.in/dev/?p=1969 to https://bullbull.in/dev/charts/this-trade-setup-results-in-profits/
+10:37:30	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1838
+10:37:30	Warning: 	File has moved from https://bullbull.in/dev/?p=1838 to https://bullbull.in/dev/charts/how-to-choose-a-candlestick-time-period-on-a-chart/
+10:37:31	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1901
+10:37:31	Warning: 	File has moved from https://bullbull.in/dev/?p=1901 to https://bullbull.in/dev/stocks/gujarat-poly-electronics-a-compelling-turnaround-story/
+10:37:33	Warning: 	Moved Permanently for https://bullbull.in/?p=408
+10:37:33	Warning: 	File has moved from https://bullbull.in/?p=408 to https://bullbull.in/uncategorized/revealed-stock-picking-pattern-cnbc-hindi-english-channels/
+10:37:35	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=2094
+10:37:35	Warning: 	File has moved from https://bullbull.in/dev/?p=2094 to https://bullbull.in/dev/market-iq/high-quality-insider-deals-updated-daily/
+10:37:36	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=2045
+10:37:36	Warning: 	File has moved from https://bullbull.in/dev/?p=2045 to https://bullbull.in/dev/charts/how-to-use-the-ichimoku-cloud/
+10:37:38	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=2007
+10:37:38	Warning: 	File has moved from https://bullbull.in/dev/?p=2007 to https://bullbull.in/dev/market-iq/the-importance-of-stop-loss-and-how-to-set-it/
+10:37:39	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=2027
+10:37:39	Warning: 	File has moved from https://bullbull.in/dev/?p=2027 to https://bullbull.in/dev/fundamentals/what-is-value-investing-and-how-to-be-a-value-investor/
+10:37:39	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1987
+10:37:39	Warning: 	File has moved from https://bullbull.in/dev/?p=1987 to https://bullbull.in/dev/fundamentals/a-practical-guide-to-predicting-commodity-cycles/
+10:37:41	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1733
+10:37:41	Warning: 	File has moved from https://bullbull.in/dev/?p=1733 to https://bullbull.in/dev/stocks/cerebra-technologies-waste-to-precious-metals-company/
+10:37:42	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1759
+10:37:42	Warning: 	File has moved from https://bullbull.in/dev/?p=1759 to https://bullbull.in/dev/charts/interpreting-candlesticks-part-1-candlestick-formations/
+10:37:44	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1431
+10:37:44	Warning: 	File has moved from https://bullbull.in/dev/?p=1431 to https://bullbull.in/dev/charts/macd-bullish-crossover-rsi-50-can-help-pick-super-stocks/
+10:37:47	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1382
+10:37:47	Warning: 	File has moved from https://bullbull.in/dev/?p=1382 to https://bullbull.in/dev/charts/macd-bullish-crossover-how-to-profit-from-it/
+10:37:49	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1331
+10:37:49	Warning: 	File has moved from https://bullbull.in/dev/?p=1331 to https://bullbull.in/dev/charts/golden-cross-indicator-use/
+10:37:51	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=537
+10:37:51	Warning: 	File has moved from https://bullbull.in/dev/?p=537 to https://bullbull.in/dev/charts/set-up-near-accurate-technical-charts-for-indian-stock-markets-free/
+10:38:02	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1716
+10:38:02	Warning: 	File has moved from https://bullbull.in/dev/?p=1716 to https://bullbull.in/dev/fundamentals/should-i-buy-this-stock-is-it-priced-right-what-is-the-target-price/
+10:38:03	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1693
+10:38:03	Warning: 	File has moved from https://bullbull.in/dev/?p=1693 to https://bullbull.in/dev/fundamentals/how-to-rate-your-stock-figure-out-trending-stocks-sectors/
+10:38:06	Error: 	"Service Unavailable" (503) at link https://bullbull.in/dev/fundamentals/companies-that-manufacture-different-types-of-plastics/feed/ (from https://bullbull.in/dev/fundamentals/companies-that-manufacture-different-types-of-plastics/)
+10:38:06	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1602
+10:38:06	Warning: 	File has moved from https://bullbull.in/dev/?p=1602 to https://bullbull.in/dev/fundamentals/companies-that-manufacture-different-types-of-plastics/
+10:38:08	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1267
+10:38:08	Warning: 	File has moved from https://bullbull.in/dev/?p=1267 to https://bullbull.in/dev/uncategorized/what-is-the-right-time-to-sell-your-stock/
+10:38:08	Error: 	"Not Found" (404) at link https://bullbull.in/dev/uncategorized/feed/ (from https://bullbull.in/dev/uncategorized/)
+10:38:22	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1157
+10:38:22	Warning: 	File has moved from https://bullbull.in/dev/?p=1157 to https://bullbull.in/dev/fundamentals/how-to-audit-management-quality-of-a-listed-bse-nse-stock/
+10:38:24	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1099
+10:38:24	Warning: 	File has moved from https://bullbull.in/dev/?p=1099 to https://bullbull.in/dev/fundamentals/list-of-hotel-stocks-that-benefit-from-gst-changes/
+10:38:25	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=930
+10:38:25	Warning: 	File has moved from https://bullbull.in/dev/?p=930 to https://bullbull.in/dev/uncategorized/how-to-analyze-the-indian-economy/
+10:38:27	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=868
+10:38:27	Warning: 	File has moved from https://bullbull.in/dev/?p=868 to https://bullbull.in/dev/fundamentals/indian-multibaggers-2020-indian-stocks-of-the-new-economy/
+10:38:30	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1651
+10:38:30	Warning: 	File has moved from https://bullbull.in/dev/?p=1651 to https://bullbull.in/dev/stocks/why-buy-ifci/
+10:38:30	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1433
+10:38:30	Warning: 	File has moved from https://bullbull.in/dev/?p=1433 to https://bullbull.in/dev/stocks/iris-business-services-solo-listed-play-in-the-regulation-niche/
+10:38:31	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1213
+10:38:31	Warning: 	File has moved from https://bullbull.in/dev/?p=1213 to https://bullbull.in/dev/stocks/ivp-ltd-multibagger-priced-cheap/
+10:38:33	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1104
+10:38:33	Warning: 	File has moved from https://bullbull.in/dev/?p=1104 to https://bullbull.in/dev/stocks/malu-papers-waste-wealth-turnaround-story/
+10:38:34	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1072
+10:38:34	Warning: 	File has moved from https://bullbull.in/dev/?p=1072 to https://bullbull.in/dev/stocks/denora-india-a-class-apart/
+10:38:38	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1021
+10:38:38	Warning: 	File has moved from https://bullbull.in/dev/?p=1021 to https://bullbull.in/dev/stocks/stock-with-long-term-potential-barak-valley-cements/
+10:38:41	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=911
+10:38:41	Warning: 	File has moved from https://bullbull.in/dev/?p=911 to https://bullbull.in/dev/stocks/swastika-investmart-massive-multibagger-potential/
+10:38:41	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=855
+10:38:41	Warning: 	File has moved from https://bullbull.in/dev/?p=855 to https://bullbull.in/dev/stocks/nse-bse-stocks-must-track/
+10:38:43	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1752
+10:38:43	Warning: 	File has moved from https://bullbull.in/dev/?p=1752 to https://bullbull.in/dev/market-iq/interpret-open-interest-data/
+10:38:43	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1459
+10:38:43	Warning: 	File has moved from https://bullbull.in/dev/?p=1459 to https://bullbull.in/dev/market-iq/smses-tricking-buying-stocks/
+10:38:46	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1126
+10:38:46	Warning: 	File has moved from https://bullbull.in/dev/?p=1126 to https://bullbull.in/dev/market-iq/get-nse-corporate-announcements-served-desktop-free/
+10:38:48	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=1048
+10:38:48	Warning: 	File has moved from https://bullbull.in/dev/?p=1048 to https://bullbull.in/dev/market-iq/multiply-your-investment-with-this-trading-strategy/
+10:38:49	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=973
+10:38:49	Warning: 	File has moved from https://bullbull.in/dev/?p=973 to https://bullbull.in/dev/market-iq/how-to-hedge-your-portfolio-with-put-options/
+10:38:51	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=906
+10:38:51	Warning: 	File has moved from https://bullbull.in/dev/?p=906 to https://bullbull.in/dev/market-iq/operators-trick-investors-2/
+10:39:30	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=511
+10:39:30	Warning: 	File has moved from https://bullbull.in/dev/?p=511 to https://bullbull.in/dev/market-iq/how-stock-market-operators-trick-investors-and-traders/
+10:39:34	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=568
+10:39:34	Warning: 	File has moved from https://bullbull.in/dev/?p=568 to https://bullbull.in/dev/stocks/stocks-with-a-future-electric-vehicle-battery-makers/
+10:39:39	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=828
+10:39:39	Warning: 	File has moved from https://bullbull.in/dev/?p=828 to https://bullbull.in/dev/uncategorized/sector-will-quench-multibagger-thirst/
+10:39:47	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=408
+10:39:47	Warning: 	File has moved from https://bullbull.in/dev/?p=408 to https://bullbull.in/dev/uncategorized/revealed-stock-picking-pattern-cnbc-hindi-english-channels/
+10:39:54	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=180
+10:39:54	Warning: 	File has moved from https://bullbull.in/dev/?p=180 to https://bullbull.in/dev/uncategorized/exposed-rekha-and-rakesh-jhunjhunwalas-portfolio-as-on-31-march-2017/
+10:39:55	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=75
+10:39:55	Warning: 	File has moved from https://bullbull.in/dev/?p=75 to https://bullbull.in/dev/uncategorized/porinju-veliyath-portfolio-as-on-31-march-2017/
+10:40:18	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=287
+10:40:18	Warning: 	File has moved from https://bullbull.in/dev/?p=287 to https://bullbull.in/dev/market-iq/hot-bsense-insider-deals-updated-daily/
+10:40:20	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=267
+10:40:20	Warning: 	File has moved from https://bullbull.in/dev/?p=267 to https://bullbull.in/dev/market-iq/how-to-keep-tabs-on-insider-trading-to-spot-multibaggers/
+10:40:22	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=215
+10:40:22	Warning: 	File has moved from https://bullbull.in/dev/?p=215 to https://bullbull.in/dev/fundamentals/how-warren-buffet-picks-stocks/
+10:40:24	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=243
+10:40:24	Warning: 	File has moved from https://bullbull.in/dev/?p=243 to https://bullbull.in/dev/market-iq/stock-axis-app-can-go-horribly-wrong/
+10:40:26	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=197
+10:40:26	Warning: 	File has moved from https://bullbull.in/dev/?p=197 to https://bullbull.in/dev/market-iq/how-to-tell-if-a-stock-is-being-cornered-by-operators/
+10:40:26	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=168
+10:40:26	Warning: 	File has moved from https://bullbull.in/dev/?p=168 to https://bullbull.in/dev/market-iq/the-stock-axis-mobile-app-a-stock-pickers-delight/
+10:40:28	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=144
+10:40:28	Warning: 	File has moved from https://bullbull.in/dev/?p=144 to https://bullbull.in/dev/market-iq/economic-policies-impact-stock-market-investments/
+10:40:31	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=480
+10:40:31	Warning: 	File has moved from https://bullbull.in/dev/?p=480 to https://bullbull.in/dev/market-iq/profit-rollover-data/
+10:40:31	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=584
+10:40:31	Warning: 	File has moved from https://bullbull.in/dev/?p=584 to https://bullbull.in/dev/stocks/sagarmala-bull-run-for-ports-pipes-roads-and-rail-stocks/
+10:40:39	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=808
+10:40:39	Warning: 	File has moved from https://bullbull.in/dev/?p=808 to https://bullbull.in/dev/market-iq/is-the-indian-stock-market-in-a-bear-phase/
+10:40:48	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=395
+10:40:48	Warning: 	File has moved from https://bullbull.in/dev/?p=395 to https://bullbull.in/dev/market-iq/top-secret-research-companies-discover-buzzing-stocks-predict-trends/
+10:40:48	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=417
+10:40:48	Warning: 	File has moved from https://bullbull.in/dev/?p=417 to https://bullbull.in/dev/stocks/can-perfect-infraengineers-do-a-shakti-pumps/
+10:41:02	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=450
+10:41:02	Warning: 	File has moved from https://bullbull.in/dev/?p=450 to https://bullbull.in/dev/market-iq/use-bullbull-stock-market-trend-predictor/
+10:41:04	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=429
+10:41:04	Warning: 	File has moved from https://bullbull.in/dev/?p=429 to https://bullbull.in/dev/fundamentals/the-best-stock-picking-tool-in-the-world-and-its-free/
+10:41:08	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=374
+10:41:08	Warning: 	File has moved from https://bullbull.in/dev/?p=374 to https://bullbull.in/dev/market-iq/list-of-stock-market-legends-and-how-to-track-their-investments/
+10:41:09	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=354
+10:41:09	Warning: 	File has moved from https://bullbull.in/dev/?p=354 to https://bullbull.in/dev/stocks/stock-pick-20-microns-a-stock-with-potential/
+10:41:11	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=344
+10:41:11	Warning: 	File has moved from https://bullbull.in/dev/?p=344 to https://bullbull.in/dev/market-iq/real-estate-company-violate-insider-trading-rules/
+10:41:11	Error: 	"Service Unavailable" (503) at link https://bullbull.in/dev/tag/insider-trading-nse/feed/ (from https://bullbull.in/dev/tag/insider-trading-nse/)
+10:41:13	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=619
+10:41:13	Warning: 	File has moved from https://bullbull.in/dev/?p=619 to https://bullbull.in/dev/stocks/companies-that-will-benefit-from-the-digital-india-program/
+10:41:17	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=755
+10:41:17	Warning: 	File has moved from https://bullbull.in/dev/?p=755 to https://bullbull.in/dev/fundamentals/quickly-efficiently-analyze-annual-report/
+10:41:20	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=784
+10:41:20	Warning: 	File has moved from https://bullbull.in/dev/?p=784 to https://bullbull.in/dev/market-iq/the-2-2-2-stock-market-trading-strategy-can-help-you-maximize-gains-and-minimize-losses-influential-brokers-follow-it/
+10:41:21	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=723
+10:41:21	Warning: 	File has moved from https://bullbull.in/dev/?p=723 to https://bullbull.in/dev/stocks/this-waste-to-wealth-paper-stock-can-pack-you-a-fortune/
+10:41:23	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=704
+10:41:23	Warning: 	File has moved from https://bullbull.in/dev/?p=704 to https://bullbull.in/dev/stocks/these-hardware-iot-stocks-can-make-you-hard-cash/
+10:41:26	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=677
+10:41:26	Warning: 	File has moved from https://bullbull.in/dev/?p=677 to https://bullbull.in/dev/stocks/this-wonder-material-can-turn-these-companies-into-multibaggers/
+10:41:29	Warning: 	Moved Permanently for https://bullbull.in/dev/?p=630
+10:41:29	Warning: 	File has moved from https://bullbull.in/dev/?p=630 to https://bullbull.in/dev/stocks/unhidden-gems-stones/
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 56 seconds : 2540 links scanned, 2316 files written (91164344 bytes overall) [79018918 bytes received at 69558 bytes/sec], 18251581 bytes transferred using HTTP compression in 657 files, ratio 26%, 41.6 requests per connection
+(14 errors, 419 warnings, 0 messages)

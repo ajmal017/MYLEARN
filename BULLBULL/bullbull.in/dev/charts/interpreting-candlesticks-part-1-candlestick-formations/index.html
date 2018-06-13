@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<!-- Mirrored from bullbull.in/dev/charts/interpreting-candlesticks-part-1-candlestick-formations/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Jun 2018 05:05:52 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css"><title>Interpreting Candlesticks Part 1: Candlestick Formations - Bullbull</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Learn how candlesticks are formed on charts and understand how to analyze each candle formation. This post will hep you enter stocks with potential and exit duds."/>
+<link rel="canonical" href="index.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Interpreting Candlesticks Part 1: Candlestick Formations - Bullbull" />
+<meta property="og:description" content="Learn how candlesticks are formed on charts and understand how to analyze each candle formation. This post will hep you enter stocks with potential and exit duds." />
+<meta property="og:url" content="index.html" />
+<meta property="og:site_name" content="Bullbull" />
+<meta property="article:tag" content="candlestick patterns" />
+<meta property="article:tag" content="understanding candlesticks" />
+<meta property="article:section" content="Charts" />
+<meta property="article:published_time" content="2018-02-05T17:23:42+00:00" />
+<meta property="article:modified_time" content="2018-02-06T05:32:53+00:00" />
+<meta property="og:updated_time" content="2018-02-06T05:32:53+00:00" />
+<meta property="og:image" content="../../wp-content/uploads/2018/02/candlestick-formations-1.png" />
+<meta property="og:image:secure_url" content="../../wp-content/uploads/2018/02/candlestick-formations-1.png" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="318" />
+<meta property="og:image:alt" content="understanding candlestick formations" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Learn how candlesticks are formed on charts and understand how to analyze each candle formation. This post will hep you enter stocks with potential and exit duds." />
+<meta name="twitter:title" content="Interpreting Candlesticks Part 1: Candlestick Formations - Bullbull" />
+<meta name="twitter:image" content="../../wp-content/uploads/2018/02/candlestick-formations-1.png" />
+<meta name="twitter:creator" content="@TheBullBull" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Bullbull &raquo; Feed" href="../../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Bullbull &raquo; Comments Feed" href="../../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Bullbull &raquo; Interpreting Candlesticks Part 1: Candlestick Formations Comments Feed" href="feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bullbull.in\/dev\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='../../wp-content/plugins/contact-form-7/includes/css/styles972f.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gglcptch-css'  href='../../wp-content/plugins/google-captcha/css/gglcptch4a16.css?ver=1.36' type='text/css' media='all' />
+<link rel='stylesheet' id='pg-sas-css'  href='../../wp-content/plugins/pg-simple-affiliate-shop/css/pg-sas1845.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='tipso-css-css'  href='../../wp-content/plugins/tipso/src/tipso.min1845.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Oswald:400,700,300|PT+Serif:400,400italic,700,700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-font-awesome-css'  href='../../wp-content/themes/mh-newsdesk-lite/includes/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-style-css'  href='../../wp-content/themes/mh-newsdesk-lite/style1845.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='../../wp-content/plugins/tablepress/css/default.min3aa8.css?ver=1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='../../wp-content/plugins/add-to-any/addtoany.mind50e.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/add-to-any/addtoany.min5152.js?ver=1.0'></script>
+<script type='text/javascript' src='../../wp-content/themes/mh-newsdesk-lite/js/scripts1845.js?ver=4.9.6'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<link rel='shortlink' href='../../indexe41a.html?p=1759' />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed7772.json?url=https%3A%2F%2Fbullbull.in%2Fdev%2Fcharts%2Finterpreting-candlesticks-part-1-candlestick-formations%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed9c40?url=https%3A%2F%2Fbullbull.in%2Fdev%2Fcharts%2Finterpreting-candlesticks-part-1-candlestick-formations%2F&amp;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="../../../../static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<!--[if lt IE 9]>
+<script src="https://bullbull.in/dev/wp-content/themes/mh-newsdesk-lite/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<link rel="icon" href="../../wp-content/uploads/2017/05/favicon.png" sizes="32x32" />
+<link rel="icon" href="../../wp-content/uploads/2017/05/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="../../wp-content/uploads/2017/05/favicon.png" />
+<meta name="msapplication-TileImage" content="https://bullbull.in/dev/wp-content/uploads/2017/05/favicon.png" />
+</head>
+<body class="post-template-default single single-post postid-1759 single-format-standard mh-right-sb">
+<div id="mh-wrapper">
+<header class="mh-header">
+	<div class="header-wrap mh-clearfix">
+		<a href="../../index.html" title="Bullbull" rel="home">
+<div class="logo-wrap" role="banner">
+<img src="../../wp-content/uploads/2018/03/cropped-logo-1.jpg" height="113" width="400" alt="Bullbull" />
+</div>
+</a>
+	</div>
+	<div class="header-wrap-right mh-clearfix">
+									<div class="mh-col mh-1-2 home-2">
+						<div id="custom_html-7" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="../../../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+<!-- Right Sidebar Ads -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:750px;height:150px"
+     data-ad-client="ca-pub-4782104330634296"
+     data-ad-slot="4731585181"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div></div>					</div>
+					</div>
+	<div class="header-menu mh-clearfix">
+		<nav class="main-nav mh-clearfix">
+			<div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu"><li id="menu-item-2081" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2081"><a href="../index.html">Charts</a></li>
+<li id="menu-item-2080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2080"><a href="../../fundamentals/index.html">Fundamentals</a></li>
+<li id="menu-item-2079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2079"><a href="../../stocks/index.html">Stocks</a></li>
+<li id="menu-item-2078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2078"><a href="../../market-iq/index.html">Market IQ</a></li>
+<li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301"><a href="../../screener-api/index.html">Chartbot</a></li>
+<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-266"><a href="../../research-tools/index.html">Research Tools</a>
+<ul class="sub-menu">
+	<li id="menu-item-1712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1712"><a href="../../target-price-calculator/index.html">Target Price Calculator</a></li>
+	<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="../../intrinsic-value-calculator/index.html">Intrinsic Value Calculator</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="../../small-cap-value-calculator/index.html">Small Cap Value Calculator</a></li>
+	<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="../../option-premium-value/index.html">Option Premium Value</a></li>
+	<li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="../../trend-predictor/index.html">Trend Predictor</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="../../about-us/index.html">About Us</a></li>
+<li id="menu-item-1357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1357"><a href="../../shop/index.html">Shop</a></li>
+</ul></div>		</nav>
+	</div>
+</header>
+<div class="mh-section mh-group">
+	<div id="main-content" class="mh-content"><article id="post-1759" class="post-1759 post type-post status-publish format-standard has-post-thumbnail hentry category-charts tag-candlestick-patterns tag-understanding-candlesticks">
+	<header class="entry-header mh-clearfix">
+		<h1 class="entry-title">Interpreting Candlesticks Part 1: Candlestick Formations</h1>
+		<div class="entry-tags mh-clearfix"><span>TOPICS:</span><a href="../../tag/candlestick-patterns/index.html" rel="tag">candlestick patterns</a><a href="../../tag/understanding-candlesticks/index.html" rel="tag">understanding candlesticks</a></div>	</header>
+	
+<figure class="entry-thumbnail">
+<img width="700" height="318" src="../../wp-content/uploads/2018/02/candlestick-formations-1.png" class="attachment-content-single size-content-single wp-post-image" alt="understanding candlestick formations" srcset="https://bullbull.in/dev/wp-content/uploads/2018/02/candlestick-formations-1.png 700w, https://bullbull.in/dev/wp-content/uploads/2018/02/candlestick-formations-1-300x136.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+	<p class="entry-meta">
+<span class="entry-meta-author vcard author">Posted By: <a class="fn" href="../../author/sunil-tinani/index.html">sunil.tinani</a></span>
+<span class="entry-meta-date updated">February 5, 2018</span>
+</p>
+	<div class="entry-content mh-clearfix">
+		<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://bullbull.in/dev/charts/interpreting-candlesticks-part-1-candlestick-formations/" data-a2a-title="Interpreting Candlesticks Part 1: Candlestick Formations"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbullbull.in%2Fdev%2Fcharts%2Finterpreting-candlesticks-part-1-candlestick-formations%2F&amp;linkname=Interpreting%20Candlesticks%20Part%201%3A%20Candlestick%20Formations" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbullbull.in%2Fdev%2Fcharts%2Finterpreting-candlesticks-part-1-candlestick-formations%2F&amp;linkname=Interpreting%20Candlesticks%20Part%201%3A%20Candlestick%20Formations" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fbullbull.in%2Fdev%2Fcharts%2Finterpreting-candlesticks-part-1-candlestick-formations%2F&amp;linkname=Interpreting%20Candlesticks%20Part%201%3A%20Candlestick%20Formations" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fbullbull.in%2Fdev%2Fcharts%2Finterpreting-candlesticks-part-1-candlestick-formations%2F&amp;linkname=Interpreting%20Candlesticks%20Part%201%3A%20Candlestick%20Formations" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p>Candlesticks are the Japanese way of representing price movements on a chart. Candlesticks are pretty comprehensive, and these cover the opening, closing, high and low prices.</p>
+<p>The opening and closing is represented by a body that looks like a candle (hence the name) and the wicks (if any) on the candle represent the high and the low of the day.</p>
+<p>The table below explains the concept of candlestick formation in detail.</p>
+<p>After understanding candlesticks, you may want to check them out on charts.</p>
+<p><strong>If you are a day trader, set the candlesticks period to 10, 15 or 30 minutes. If you are a BTST kind of guy, set it to 1 or 4 hours. If you are an investor set it to weekly-monthly.</strong></p>
+<p>This is the first article in the series. The next set of articles will explain chart patterns (one article per chart pattern) and in those, you will be able to figure out how these formations play out. Stay tuned for those articles.</p>
+<p><span style="text-decoration: underline;"><strong>NOTE THAT THIS ARTICLE HAS BEEN WRITTEN BASED ON A SESSION CONDUCTED BY MR RAJAN KAMBOJ A TA HOBBYIST.</strong></span></p>
+
+<table id="tablepress-20" class="tablepress tablepress-id-20">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">CANDLESTICK FORMATION</th><th class="column-2">INTERPRETATION</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bullish-Candle.png"><img src="../../../wp-content/uploads/2018/02/Bullish-Candle-300x181.png" alt="How to interpret green or white candlesticks" width="300" height="181" class="alignnone size-medium wp-image-1756" /></a></td><td class="column-2">Bullish candlesticks are coloured green, blue or white. <br />
+<br />
+A bullish candlestick implies that the closing price was higher than the opening price.<br />
+<br />
+The candlewicks that you see at the top or bottom are also referred to as shadows.<br />
+<br />
+Both the body (or the lack of it) and the shadows are extremely important to understand.</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bearish-Candles.png"><img src="../../../wp-content/uploads/2018/02/Bearish-Candles-300x278.png" alt="how to interpret candlesticks" width="300" height="278" class="alignnone size-medium wp-image-1761" /></a></td><td class="column-2">Bearish candlesticks are coloured red or black. <br />
+<br />
+A bearish candlestick implies that the closing price was lower than the opening price.<br />
+<br />
+Same comment (above) on candlewicks/shadows<br />
+ holds good here.</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bullish-Candle-1.png"><img src="../../../wp-content/uploads/2018/02/Bullish-Candle-1-95x300.png" alt="analyzing bullish candlesticks" width="95" height="300" class="alignnone size-medium wp-image-1764" /></a></td><td class="column-2">UNDERSTANDING BULLISH CANDLES - EXAMPLE 1<br />
+<br />
+In this example, the stock opened at 95, hit a high of 105. Sellers emerged at this rate and the stock closed at 100.<br />
+<br />
+Such candles can be interpreted as moderately bullish esp if they form after a spate of red candlesticks. </td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/bullish-candle-2.png"><img src="../../../wp-content/uploads/2018/02/bullish-candle-2-109x300.png" alt="interpreting bullish candles" width="109" height="300" class="alignnone size-medium wp-image-1766" /></a></td><td class="column-2">UNDERSTANDING BULLISH CANDLES - EXAMPLE 2<br />
+<br />
+In this example, the stock opened at 100 and bears hammered it down to 95. From there on, the bulls took charge and bought the stock, which closed at 105.<br />
+<br />
+This signifies bullish.</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bullish-Candle-3.png"><img src="../../../wp-content/uploads/2018/02/Bullish-Candle-3-95x300.png" alt="Interpret marubozu candlesticks" width="95" height="300" class="alignnone size-medium wp-image-1767" /></a></td><td class="column-2">UNDERSTANDING BULLISH CANDLES - EXAMPLE 3<br />
+<br />
+A GREEN full bodied candlestick without any wicks is referred to as a Marubozu. <br />
+<br />
+In this example, the stock opened at 95 and closed at 105. The chargeup was relentless signifying huge buying interest. This candle signifies solid bullishness.</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bearish-candle-1.png"><img src="../../../wp-content/uploads/2018/02/Bearish-candle-1-95x300.png" alt="Analyzing bearish candlesticks" width="95" height="300" class="alignnone size-medium wp-image-1769" /></a></td><td class="column-2">UNDERSTANDING BEARISH CANDLES - EXAMPLE 1<br />
+<br />
+In this example, the stock opened at 100, zoomed to 105 and then the hammering started dragging it all the way to 95. This is a bearish candle that suggests sellers are waiting to hammer down the stock or investors want to get rid of it for whatever reason.<br />
+<br />
+</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bearish-candle-2.png"><img src="../../../wp-content/uploads/2018/02/Bearish-candle-2-109x300.png" alt="interpreting bearish candles" width="109" height="300" class="alignnone size-medium wp-image-1772" /></a></td><td class="column-2">UNDERSTANDING BEARISH CANDLES - EXAMPLE 2<br />
+<br />
+In this candle the stock opened at 105, fell to 95 and recovered to 100. THough this is a negative, it is not a majorly negative candle.<br />
+</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Bearish-candle-3.png"><img src="../../../wp-content/uploads/2018/02/Bearish-candle-3-95x300.png" alt="bearish marubozu" width="95" height="300" class="alignnone size-medium wp-image-1773" /></a></td><td class="column-2">UNDERSTANDING BEARISH CANDLES - EXAMPLE 3<br />
+<br />
+This is a full bodied bearish candle, also a Marubozu.<br />
+<br />
+The stock opened at 105 and witnessed a feww fall to 95. It is a very bearish candle.<br />
+</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">(DOJI)</td><td class="column-2">A Doji is a candlestick that is formed when the closing price is almost the same as or equal to the opening price. Here are the different types of Dojis:</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Doji-1.png"><img src="../../../wp-content/uploads/2018/02/Doji-1.png" alt="four legged doji analysis" width="137" height="25" class="alignnone size-full wp-image-1774" /></a></td><td class="column-2">HORIZONTAL DOJI<br />
+<br />
+This could mean that the stock closed at UC or LC <br />
+<br />
+OR<br />
+<br />
+if this is happening in the middle of a trend (bullish or bearish), it could signify a reversal</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/Doji2.png"><img src="../../../wp-content/uploads/2018/02/Doji2.png" alt="interpret dragonfly doji" width="120" height="236" class="alignnone size-full wp-image-1775" /></a></td><td class="column-2">DRAGONFLY DOJI<br />
+<br />
+The stock opened at 105, hit a low of 95 and then recovered to close at 105.<br />
+<br />
+This could be anything - short covering, reversal of trend (if it occurs when the share is continuously falling) or indecision.</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/doji3.png"><img src="../../../wp-content/uploads/2018/02/doji3.png" alt="understanding gravestone doji" width="107" height="227" class="alignnone size-full wp-image-1777" /></a></td><td class="column-2">GRAVESTONE DOJI<br />
+<br />
+The stock opened at 95, saw a good amount of buying and touched 105. Then the sellers started dumping and it crashed back to 95.<br />
+<br />
+This can be a bearish signal in a bull market, or maybe even a sign of reversal in a full blown bear market, or a sign of indecision in choppy markets.<br />
+<br />
+</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/doji5.png"><img src="../../../wp-content/uploads/2018/02/doji5.png" alt="doji star basics" width="122" height="248" class="alignnone size-full wp-image-1778" /></a></td><td class="column-2">DOJI STAR<br />
+<br />
+In this example, the stock opened at 100 hit a high of 105, a low of 95 and closed at 100. It reflects indecision.</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/doji4.png"><img src="../../../wp-content/uploads/2018/02/doji4.png" alt="four legged Doji interpretation" width="122" height="248" class="alignnone size-full wp-image-1780" /></a></td><td class="column-2">LONG LEGGED DOJI<br />
+<br />
+Reflects indecision</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/green-candle-long-wick-1.png"><img src="../../../wp-content/uploads/2018/02/green-candle-long-wick-1-98x300.png" alt="green long wick top" width="98" height="300" class="alignnone size-medium wp-image-1798" /></a></td><td class="column-2">GREEN CANDLE WITH LONG WICK AT TOP<br />
+<br />
+Long candle wicks or shadows are extremely important to understand. In this example, the stock opened at 95, hit 105 and closed at 98.<br />
+<br />
+This candlewick can be interpreted as a sign of indecision.<br />
+<br />
+</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/green-candle-long-wick-2.png"><img src="../../../wp-content/uploads/2018/02/green-candle-long-wick-2-97x300.png" alt="green candle long wick bottom" width="97" height="300" class="alignnone size-medium wp-image-1799" /></a></td><td class="column-2">GREEN CANDLE WITH LONG WICK AT BOTTOM<br />
+<br />
+The stock opened at 102, hit an intraday low of 95 and closed at 105. This candle indicates bullishness.</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/green-hanging.png"><img src="../../../wp-content/uploads/2018/02/green-hanging-109x300.png" alt="green candlestick hanging man" width="109" height="300" class="alignnone size-medium wp-image-1801" /></a></td><td class="column-2">HANGING MAN (GREEN)<br />
+<br />
+The stock opened at 103 was bashed all the way down to 95 and it closed a little above the opening. <br />
+<br />
+It can be interpreted as a sign of bull exhaustion in a bull trend and as a sign of  indecisiveness (or even trend reversal) in a bear trend. </td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/red-candle-long-wick-1.png"><img src="../../../wp-content/uploads/2018/02/red-candle-long-wick-1-98x300.png" alt="red candlestick top long shadow" width="98" height="300" class="alignnone size-medium wp-image-1803" /></a></td><td class="column-2">RED CANDLE WITH LONG WICK AT TOP<br />
+<br />
+Stock opened at 98, hit 105 and closed at 95. This indicates there is supply at the higher level. </td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/red-candle-long-wick-2.png"><img src="../../../wp-content/uploads/2018/02/red-candle-long-wick-2-97x300.png" alt="red candle long shadow bottom" width="97" height="300" class="alignnone size-medium wp-image-1804" /></a></td><td class="column-2">RED CANDLE WITH LONG WICK AT BOTTOM<br />
+<br />
+Stock opened at 105, crashed to 95 and later recovered to 102 indicating that there is buying at lower levels.<br />
+</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1"><a href="../../../wp-content/uploads/2018/02/red-hanging.png"><img src="../../../wp-content/uploads/2018/02/red-hanging-109x300.png" alt="red candlestick hanging man" width="109" height="300" class="alignnone size-medium wp-image-1805" /></a></td><td class="column-2">HANGING MAN (RED)<br />
+<br />
+Stock opened at 105 and was hammered down to 95. But it recovered well to close just below its opening price at 103.<br />
+<br />
+This can be a sign of selling exhaustion in a bear trend or a sign of minor profit taking in a bull trend.</td>
+</tr>
+</tbody>
+</table>
+
+	</div>
+</article><nav class="post-nav-wrap" role="navigation">
+<ul class="post-nav mh-clearfix">
+<li class="post-nav-prev">
+<a href="../../market-iq/interpret-open-interest-data/index.html" rel="prev"><i class="fa fa-chevron-left"></i>Previous post</a></li>
+<li class="post-nav-next">
+<a href="../how-to-choose-a-candlestick-time-period-on-a-chart/index.html" rel="next">Next post<i class="fa fa-chevron-right"></i></a></li>
+</ul>
+</nav>
+	<h4 class="widget-title"><span>About the Author</span></h4>
+	<section class="author-box mh-clearfix">
+		<div class="author-box-avatar"><a href="../../author/sunil-tinani/index.html"><img alt='' src='https://secure.gravatar.com/avatar/076443fa498e2fc77474f832f22a4634?s=100&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/076443fa498e2fc77474f832f22a4634?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' /></a></div>
+		<h5 class="author-box-name"><a href="../../author/sunil-tinani/index.html">sunil.tinani</a></h5>
+		<div class="author-box-desc">Chartered Accountant and Investor who has been in the equity markets since 1985. Currently operates BullBull.in, a blog that guides investors through the dense stock market jungle.</div>
+	</section>		<div class="comments-wrap">
+			<h4 class="comment-section-title"><span class="comment-count">1 Comment</span> <span class="comment-count-more">on "Interpreting Candlesticks Part 1: Candlestick Formations"</span></h4>
+			<ol class="commentlist">
+						<li class="comment even thread-even depth-1" id="li-comment-482">
+			<div id="comment-482">
+				<div class="vcard meta">
+					<img alt='' src='https://secure.gravatar.com/avatar/7da023025fb59d21d4eb4568d72f2509?s=70&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/7da023025fb59d21d4eb4568d72f2509?s=140&#038;d=mm&#038;r=g 2x' class='avatar avatar-70 photo' height='70' width='70' />					RAVINDER NEHRA |
+					<a href="index.html#comment-482">February 22, 2018 at 8:47 am</a> |
+										<a rel='nofollow' class='comment-reply-link' href='#comment-482' onclick='return addComment.moveForm( "comment-482", "482", "respond", "1759" )' aria-label='Reply to RAVINDER NEHRA'>Reply</a>														</div>
+								<div class="comment-text">
+					<p>VERY INFORMATIVE &#8230;&#8230;. WELL DESCRIBE</p>
+				</div>
+			</div></li><!-- #comment-## -->
+			</ol>
+		</div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://bullbull.in/dev/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes">Your email address will not be published.</p><p class="comment-form-comment"><label for="comment">Comment</label><br/><textarea id="comment" name="comment" cols="45" rows="5" aria-required="true"></textarea></p><p class="comment-form-author"><label for="author">Name </label><span class="required">*</span><br/><input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email </label><span class="required">*</span><br/><input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Website</label><br/><input id="url" name="url" type="text" value="" size="30" /></p>
+<div class="gglcptch gglcptch_v2"><div id="gglcptch_recaptcha_682486742" class="gglcptch_recaptcha"></div>
+				<noscript>
+					<div style="width: 302px;">
+						<div style="width: 302px; height: 422px; position: relative;">
+							<div style="width: 302px; height: 422px; position: absolute;">
+								<iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfbtiMUAAAAAMH0ztctndi9T3k3YKaEUbxhttjx" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+							</div>
+						</div>
+						<div style="border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px; height: 60px; width: 300px;">
+							<textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px !important; height: 40px !important; border: 1px solid #c1c1c1 !important; margin: 10px 25px !important; padding: 0px !important; resize: none !important;"></textarea>
+						</div>
+					</div>
+				</noscript></div><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1759' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+		</div>
+	<aside class="mh-sidebar">
+	<div id="custom_html-2" class="widget_text sb-widget mh-clearfix widget_custom_html"><div class="textwidget custom-html-widget"><script async src="../../../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+<!-- Right Sidebar Ads -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:280px"
+     data-ad-client="ca-pub-4782104330634296"
+     data-ad-slot="4731585181"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div></div></aside></div>
+</div>
+<footer class="mh-footer">
+	<div class="wrapper-inner">
+		<div class="copyright">
+											
+						<div id="custom_html-10" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget">Copyright Sunil Tinani 2017-18 onwards</div></div>					
+								</div>
+		<div class="footer-note">
+				  
+										
+							<div id="custom_html-9" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget"><p>Note: BullBull.in and Sunil Tinani are not registered with SEBI.</p></div></div>					
+										</div>		
+	</div>
+</footer>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/bullbull.in\/dev\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/contact-form-7/includes/js/scripts972f.js?ver=5.0.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/tipso/src/tipso.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tipsoData = {"speed":"400","background":"#55b555","color":"#ffffff","position":"top","width":"300","delay":"200"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/tipso/admin/callTipso.js'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min1845.js?ver=4.9.6'></script>
+<script type='text/javascript' src='../../wp-includes/js/wp-embed.min1845.js?ver=4.9.6'></script>
+<script type='text/javascript' src='../../wp-content/plugins/tablepress/js/jquery.datatables.min3aa8.js?ver=1.9'></script>
+<script type='text/javascript' data-cfasync="false" async="async" defer="defer" src='../../../../www.google.com/recaptcha/api7b8e.js?render=explicit&amp;ver=1.36'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gglcptch = {"options":{"version":"v2","sitekey":"6LfbtiMUAAAAAMH0ztctndi9T3k3YKaEUbxhttjx","theme":"light","error":"<strong>Warning<\/strong>:&nbsp;More than one reCAPTCHA has been found in the current form. Please remove all unnecessary reCAPTCHA fields to make it work properly."},"vars":{"visibility":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/google-captcha/js/script4a16.js?ver=1.36'></script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+$('#tablepress-20').dataTable({"order":[],"orderClasses":false,"stripeClasses":["even","odd"],"pagingType":"simple","lengthMenu":[10,21,25,50,100],"pageLength":21});
+});
+</script></body>
+
+<!-- Mirrored from bullbull.in/dev/charts/interpreting-candlesticks-part-1-candlestick-formations/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Jun 2018 05:05:56 GMT -->
+</html>
